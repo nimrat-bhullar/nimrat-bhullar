@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year Btech- CSE student, specializing in AI & DS. <br>I am fluent with OOPs concept in Java, C++.<br>I am currently working on real-time Data Science projects.<br>I am comfortable using PowerBI.<br>I am learning Django.
+I am a second year Btech- CSE student, specializing in AI & DS. <br>I am fluent with OOPs concept in Java, C++.<br>I am currently working on real-time Data Science projects.<br>I am comfortable using PowerBI.<br>I am learning DSA in C++.
 
 
 ## 🌐 Socials:
